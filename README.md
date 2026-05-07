@@ -58,43 +58,43 @@ Image → Preprocessing → Model Prediction → Top-3 Results → Breed Output
 Link: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 ### Cat Breeds (12 classes)
-Abyssinian
-Bengal
-Birman
-Bombay
-British Shorthair
-Egyptian Mau
-Maine Coon
-Persian
-Ragdoll
-Russian Blue
-Siamese
-Sphynx
+Abyssinian <br>
+Bengal<br>
+Birman<br>
+Bombay<br>
+British Shorthair<br>
+Egyptian Mau<br>
+Maine Coon<br>
+Persian<br>
+Ragdoll<br>
+Russian Blue<br>
+Siamese<br>
+Sphynx<br>
 
 ### Dog Breeds (25 classes) - NOT USED
-American Bulldog
-American Pit Bull Terrier
-Basset Hound
-Beagle
-Boxer
-Chihuahua
-English Cocker Spaniel
-English Setter
-German Shorthaired
-Great Pyrenees
-Havanese
-Japanese Chin
-Keeshond
-Leonberger
-Miniature Pinscher
-Newfoundland
-Pomeranian
-Pug
-Saint Bernard
-Samoyed
-Scottish Terrier
-Shiba Inu
-Staffordshire Bull Terrier
-Wheaten Terrier
-Yorkshire Terrier
+American Bulldog<br>
+American Pit Bull Terrier<br>
+Basset Hound<br>
+Beagle<br>
+Boxer<br>
+Chihuahua<br>
+English Cocker Spaniel<br>
+English Setter<br>
+German Shorthaired<br>
+Great Pyrenees<br>
+Havanese<br>
+Japanese Chin<br>
+Keeshond<br>
+Leonberger<br>
+Miniature Pinscher<br>
+Newfoundland<br>
+Pomeranian<br>
+Pug<br>
+Saint Bernard<br>
+Samoyed<br>
+Scottish Terrier<br>
+Shiba Inu<br>
+Staffordshire Bull Terrier<br>
+Wheaten Terrier<br>
+Yorkshire Terrier<br>
 
